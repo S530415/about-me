@@ -38,3 +38,5 @@ Lucas Rogers. IDM Visual Imaging and IDM Computer Science.
 ![Coins](https://images.unsplash.com/photo-1567427018369-9216e43df052?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60)
 
 Maybe not my favorite picture but I enjoy collecting coins in my spare time.
+
+Credit to https://unsplash.com.
