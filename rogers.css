@@ -8,11 +8,6 @@ body {
     text-align: center;
   }
 
-  h2{
-      color: darkred;
-      text-align: center;
-  }
-
   p {
     font-family: verdana;
     font-size: 20px;
@@ -24,12 +19,6 @@ body {
     text-align: center;
     font-size: 20px;
 
-  }
-
-  .top{
-    color:darkblue;
-    text-align: center;
-    font-size: 40px;
   }
 
   #first{
@@ -45,4 +34,11 @@ body {
     /*Credit to W3schools.com */
     border-radius: 50%;
   }
+
   
+  
+  button.button2{
+    margin: 0px;
+    vertical-align: auto;
+    margin-left: 375px;
+  }
